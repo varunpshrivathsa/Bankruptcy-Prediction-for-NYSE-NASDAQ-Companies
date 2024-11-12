@@ -1,4 +1,4 @@
-# Bankruptcy-Prediction-for-NYSE-NASDAQ-Companies
+# Bankruptcy-Prediction-for-NYSE-NASDAQ-Companies - LOGISTIC REGRESSION
 A model to predict bankruptcy risk for companies listed on NYSE and NASDAQ, using financial indicators and logistic regression. Aims to assist in assessing financial health and investment risks.
 Project Overview
 This project aims to predict the likelihood of bankruptcy for companies listed on the New York Stock Exchange (NYSE) and NASDAQ. Using financial indicators and logistic regression, the model assesses the financial health of companies and helps in evaluating potential investment risks.
